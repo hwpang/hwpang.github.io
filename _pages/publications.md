@@ -8,6 +8,9 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+
+An up-to-date publication list can be found at [Google Scholar](https://scholar.google.com/citations?user=hmkEmtcAAAAJ).
+
 <div class="publications">
 
 {%- for y in page.years %}
