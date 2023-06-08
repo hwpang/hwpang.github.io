@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cambridge, MA
+subtitle: Cambridge, MA | hwpang@mit.edu
 
 profile:
   align: right
